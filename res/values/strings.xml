@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, HITSearchActivity!</string>
+    <string name="app_name">HIT教室助手</string>
+
+</resources>
